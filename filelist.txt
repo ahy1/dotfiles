@@ -1,0 +1,7 @@
+~/.bashrc
+~/.bash_profile
+~/.gitconfig
+~/.inputrc
+~/.profile
+~/.vim
+~/.vimrc
